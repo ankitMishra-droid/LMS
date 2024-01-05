@@ -31,6 +31,7 @@
     "cmdk": "^0.2.0",
     "eslint": "8.55.0",
     "eslint-config-next": "13.4.12",
+    "is-url": "^1.2.4",
     "lucide-react": "^0.294.0",
     "next": "13.4.12",
     "postcss": "8.4.32",
@@ -47,6 +48,7 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
+    "@types/is-url": "^1.2.32",
     "prisma": "^5.7.1"
   }
 }
